@@ -1,5 +1,5 @@
 # 🚀 Gabriel Turatti  
-**`Desenvolvedor Full Stack (Java/Next.js/Python)`**  
+**`Desenvolvedor full stack com expertise em Java Spring, Next.js e Python, criando soluções escaláveis desde o back-end até interfaces modernas. Atualmente cursando Sistemas da Informação na FIAP e atuando como Aprendiz de DBA, onde aplico meus conhecimentos em projetos reais com MySQL, MongoDB e automações`**  
 
 <div align="center">
   
