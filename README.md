@@ -77,4 +77,4 @@
 
 ---
 
-✨ **"Show me your motivation"**
+✨ **"Jackpot"**
