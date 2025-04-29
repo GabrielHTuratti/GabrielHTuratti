@@ -77,4 +77,4 @@
 
 ---
 
-✨ **"Transformo café em código e desafios em soluções."**
+✨ **"Show me your motivation"**
